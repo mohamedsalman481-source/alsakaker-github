@@ -1,0 +1,21 @@
+{
+  "name": "السكاكر — ليلى وليالي",
+  "short_name": "السكاكر",
+  "description": "مغامرة ليلى وليالي العائلية عبر 15 مرحلة في مملكة الحلوى.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#150d2e",
+  "theme_color": "#6c35d9",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
